@@ -155,3 +155,4 @@ elif n == 7:
 
 elif n>7:
     print("not applicable")
+fff
